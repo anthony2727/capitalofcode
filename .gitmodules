@@ -1,3 +1,0 @@
-[submodule "externals/bootstrap"]
-	path = externals/bootstrap
-	url = https://github.com/twbs/bootstrap.git
